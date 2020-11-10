@@ -1,0 +1,21 @@
+{
+  "short_name": "Simpres",
+  "name": "Simpres HR Management Application",
+  "icons": [
+    {
+      "src": "assets/pages/img/logo_sm.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/pages/img/logo_sm.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "simpres.baytulikhtiar.com",
+  "background_color": "#00a90a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#00a90a"
+}
